@@ -1,3 +1,8 @@
+## 🛰️ Baarian Project
+Baarian Project adalah sistem monitoring berbasis ESP32 dan Python yang dirancang untuk transliterasi bahasa isyarat menjadi teks dan audio. Proyek ini mengintegrasikan perangkat keras dan perangkat lunak untuk menyediakan solusi monitoring yang efisien dan dapat diandalkan.
+
+
+
 ## 📌 Instalasi dan Persyaratan
 ### 1️⃣ Persiapan Sistem
 Pastikan Anda memiliki **Python 3.8+** dan **MicroPython** yang sudah di-flash ke ESP32.
